@@ -17,7 +17,6 @@ body {
   font-weight: 500;
 }
 
-
 .container {
   background: white;
   padding: 20px 30px;
@@ -90,3 +89,4 @@ button:hover {
   font-size: 0.9em;
   color: #555;
 }
+
